@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @R1nZox-dev
--join my discord for mor about next realeses
+- join my discord for mor about next realeses
 [discord](https://discord.gg/fcX35xvJap)
 # 👀 I’m interested in Fivem development cause i love to create some usfull scripts
 # 🌱 I’m currently learning JavaScript
