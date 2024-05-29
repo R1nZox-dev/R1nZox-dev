@@ -24,7 +24,7 @@
 
 <h2 align="center">Profiles</h2><br>
   <p align="center">
-    <a href="https://discordapp.com/users/412324253397155854" target="_blank">
+    <a href="https://discordapp.com/users/871698857493422110" target="_blank">
         <img title="BaziForYou discord" alt="BaziForYou's discord" src="https://discord.c99.nl/widget/theme-3/412324253397155854.png"/>
     </a>
     <br/>
