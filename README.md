@@ -2,7 +2,7 @@
 - join my discord for mor about next realeses
 
 
-[![R1nZox's GitHub stats](https://github-readme-stats.vercel.app/api/?username=R1nZox-dev&count_private=true&theme=tokyonight&show_icons=true)
+[![R1nZox's GitHub stats](https://github-readme-stats.vercel.app/api/?username=R1nZox-dev&count_private=true&theme=tokyonight&show_icons=true)]
 
 
 
