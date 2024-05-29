@@ -1,7 +1,11 @@
 # 👋 Hi, I’m @R1nZox-dev
 - join my discord for mor about next realeses
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BaziForYou&count_private=true&theme=tokyonight&show_icons=true )](https://github.com/BaziForYou)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaziForYou&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/BaziForYou)
+
+
 # Contact
 -[discord](https://discord.gg/fcX35xvJap)
 # 🌱 I’m currently learning JavaScript
