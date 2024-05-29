@@ -20,7 +20,7 @@
 
 
 # Contact
--[discord](https://discord.gg/fcX35xvJap)
+- [discord](https://discord.gg/fcX35xvJap)
 
 <h2 align="center">Profiles</h2><br>
   <p align="center">
