@@ -7,7 +7,7 @@
 </p>
 
 
-# About me
+### About me
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=R1nZox-dev&count_private=true&theme=tokyonight&show_icons=true )](https://github.com/BaziForYou)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=R1nZox-dev&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/BaziForYou)
@@ -28,7 +28,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 
-# Contact
+### Contact
 - click to join my discord[discord](https://discord.gg/fcX35xvJap)
 
 
