@@ -1,4 +1,13 @@
-# 👋 Hi, I’m @R1nZox-dev
+<h2 align="center">Profiles</h2><br>
+  <p align="center">
+    <a href="https://discordapp.com/users/871698857493422110" target="_blank">
+        <img title="R1nzox's discord" alt="R1nZox.16's discord" src="https://discord.c99.nl/widget/theme-2/871698857493422110.png"/>
+    </a>
+    <br/>
+</p>
+
+
+# About me
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=R1nZox-dev&count_private=true&theme=tokyonight&show_icons=true )](https://github.com/BaziForYou)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=R1nZox-dev&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/BaziForYou)
