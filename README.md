@@ -8,6 +8,12 @@
 
 
 
+[![R1nZox's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=R1nZox-dev&langs_count=5&theme=tokyonight&layout=compact)
+
+
+
+
+
 
 # Contact
 -[discord](https://discord.gg/fcX35xvJap)
