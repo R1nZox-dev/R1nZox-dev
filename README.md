@@ -1,20 +1,7 @@
 # 👋 Hi, I’m @R1nZox-dev
 - join my discord for mor about next realeses
-
-
-[![R1nZox's GitHub stats](https://github-readme-stats.vercel.app/api/?username=R1nZox-dev&count_private=true&theme=tokyonight&show_icons=true )]
-
-
-
-
-
-[![R1nZox's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=R1nZox-dev&langs_count=5&theme=tokyonight&layout=compact)
-
-
-
-
-
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BaziForYou&count_private=true&theme=tokyonight&show_icons=true )](https://github.com/BaziForYou)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaziForYou&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/BaziForYou)
 # Contact
 -[discord](https://discord.gg/fcX35xvJap)
 # 🌱 I’m currently learning JavaScript
