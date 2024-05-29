@@ -9,7 +9,8 @@
 
 
 [discord](https://discord.gg/fcX35xvJap)
-# 👀 I’m interested in Fivem development cause i love to create some usfull scripts
+# Contact
+-[discord](https://discord.gg/fcX35xvJap)
 # 🌱 I’m currently learning JavaScript
 # 📫 How to reach me dm me on my discord : @mugiwara.16
 
