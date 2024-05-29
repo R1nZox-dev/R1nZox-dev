@@ -8,7 +8,7 @@
 
 
 
-[discord](https://discord.gg/fcX35xvJap)
+
 # Contact
 -[discord](https://discord.gg/fcX35xvJap)
 # 🌱 I’m currently learning JavaScript
