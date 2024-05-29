@@ -28,9 +28,6 @@
         <img title="R1nzox's discord" alt="R1nZox.16's discord" src="https://discord.c99.nl/widget/theme-2/871698857493422110.png"/>
     </a>
     <br/>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=1j3t08bcyf1ot8eetmkemqxha&redirect=true" target="_blank">
-        <img title="BaziForYou Spotify" alt="BaziForYou's Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=1j3t08bcyf1ot8eetmkemqxha&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
-    </a>
 </p>
 
 <!---
