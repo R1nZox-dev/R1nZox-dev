@@ -25,7 +25,7 @@
 <h2 align="center">Profiles</h2><br>
   <p align="center">
     <a href="https://discordapp.com/users/871698857493422110" target="_blank">
-        <img title="BaziForYou discord" alt="BaziForYou's discord" src="https://discord.c99.nl/widget/theme-3/412324253397155854.png"/>
+        <img title="R1nzox's discord" alt="R1nZox.16's discord" src="https://discord.c99.nl/widget/theme-2/871698857493422110.png"/>
     </a>
     <br/>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=1j3t08bcyf1ot8eetmkemqxha&redirect=true" target="_blank">
