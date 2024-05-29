@@ -4,10 +4,10 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=R1nZox-dev&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/BaziForYou)
 
 ### Currently
-soo i am curently finishig my frontend ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC) | ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) | 
-and also the backend ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-well no one is perfect i wanna be a helpfull person in this useless world 
-and i am trying to create some usefull add ons while learning this Programming Languages
+- soo i am curently finishig my frontend ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC) | ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) | 
+- and also the backend ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+- well no one is perfect i wanna be a helpfull person in this useless world 
+- i am trying to create some usefull add ons while learning this Programming Languages
 
 ### Programming Languages
 
