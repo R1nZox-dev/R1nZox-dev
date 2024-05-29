@@ -1,4 +1,4 @@
-<h2 align="right">Profiles</h2><br>
+<h1 align="left">Profiles</h1><br>
   <p align="center">
     <a href="https://discordapp.com/users/871698857493422110" target="_blank">
         <img title="R1nzox's discord" alt="R1nZox.16's discord" src="https://discord.c99.nl/widget/theme-2/871698857493422110.png"/>
