@@ -8,11 +8,9 @@
 
 
 # About me
-Hi, I’m Ramy — a 20-year-old kid driven by a deep passion for the digital world.
-From IT networking and operating systems to game add-on scripting, software engineering, ethical hacking, and the vast world of data — I’m all in.
+Hi, I'm Ramy a 20-year-old driven by a profound passion for the digital world. From IT networking and operating systems to scripting game add-ons, software engineering, ethical hacking, and diving deep into data—I'm fully immersed.
 
-You might ask, why this field?
-It’s the curiosity, the constant innovation, and the thrill of being part of the next generation of tech. That’s what pulls me in. I’m learning, growing, and "cooking" myself every day — preparing to contribute, to push our generation limits to the next level 
+Why this field? It's the curiosity, the constant innovation, and the thrill of shaping the future of technology. Every day, I'm learning, evolving, and challenging myself—preparing to contribute and push the boundaries of what our generation can achieve.
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=R1nZox-dev&count_private=true&theme=tokyonight&show_icons=true )](https://github.com/BaziForYou)
