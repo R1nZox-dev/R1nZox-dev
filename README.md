@@ -8,7 +8,7 @@
 
 
 # About me
-Hi, I'm Ramy a 20-year-old driven by a profound passion for the digital world. From IT networking and operating systems to scripting game add-ons, software engineering, ethical hacking, and diving deep into data—I'm fully immersed.
+Hi, I'm Ramy a 20-year-old driven by a profound passion for the digital world. From IT networking and operating systems to scripting game add-ons, software engineering, ethical hacking, and diving deep into data World.
 
 Why this field? It's the curiosity, the constant innovation, and the thrill of shaping the future of technology. Every day, I'm learning, evolving, and challenging myself—preparing to contribute and push the boundaries of what our generation can achieve.
 
